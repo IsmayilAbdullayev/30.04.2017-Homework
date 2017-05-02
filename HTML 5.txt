@@ -1,0 +1,138 @@
+                                      HTML 5 yeni teqler 
+
+
+1. <article> ---Meqale musteqil,oz-ozune olan mezmun gosterir.
+     Bir meqale oz-ozune menali ve musteqil olmalidi saytin istenilen yerinde istediyimize qeder cagirib islede bilerik.
+
+2.  <aside>----Aside teqi,seifemizin sag ve ya sol sutunlarini tanimlamak ucun istifade edilir.
+
+3.  <audio>----teqi musiqi ve ya diger ses axislarini tanimlayir.Hal-hazirda audio teqin 3 desteklenen fayl formasi vardir mp3,wav ve ogg.
+
+4.  <bdi>-----Bi-directional Isolation sozunun qisaltmasindan gelir.ferqli yonde baslayan bir metini diger metinden ayirir.mes(erebce,turkce)
+     metin dili ferqli olan seifde yaradarken bu teqden istifade etmek meksede uygundur.
+
+5. <canvas>--- elementi bir web seifesinde qrafik cekmek ucun istifade edilir.<Canvas> qrafikler ucun sadece bir tutucudur.Eger qrafikc cekmek
+    isteyirsinizse bu zaman script istifade etmelisiniz.
+
+6. <datalist>----Datalist HTML5 ile gelen yeni xususiyyetlerinden biri Selectbox kimi ozunde evvelceden mueyyen variantlarin bir siyahisini gsterir.
+
+7. <dialog>---- teqi bir informasiya qutusu ve ya pencere mueyyen edir. bir web seifeesinde diyaloqlar ve sablonlar yaratmagi asantlasdirir.
+
+8.  <embed>--- teqi xarici bir tetbiqi ve ya interaktiv bir ehate edici tanimlar.
+ 
+9. <figcaption>---teqi <fiqure> teqi ucun bir basligi gosterir sekilin ust ve ya alt hissesinde yerlesdirilir.
+
+10. <Fiqure>----Fiqure etiketi img,resm kimi elementleri ifade etmek ucun istifade edilen teqdir.
+
+11.<footer>---- teqi bir sened ve ya bolum ucun bir footer mueyyen edir.Footer element onun terkibinde element haqqinda melumatlari gostermelidir.
+
+12 <header>----elememti giris mezmun ve ya naviqasiya links ucun  bir  konteyner edir.<header> teqinin <head> teqi ile hec bir benzerliyi
+   ve oxsarligi yoxdur <head> teqi <body> teqinden evvel yazildigi halda <header> teqi <body> teqinin terkibinde yazilir.
+
+13.<keygen>---bu teq formlar ucun istifade olunan bir acar(sexsi ve ortaq) yaradir.Form melumatlari gonderildikden sonra,sexsi acar museride
+   tutulur,ortaq acar servere gonderilir.istifadecinin tanimaq ucun bu acar cifti istifade olunur.
+
+14.<main> ----bu teq senedin esas mezmununu mueyyen edir.bu element daxilinde mezmun sened ucun xas olmalidir.Bu yan cubuqlar,naviqasiya
+   baglantilar ve axtarisalr kimi senedler arasinda tekrar her hansi bir mezmun olmamalidir.Bir  senedde daha cox esas element ola bilmez
+   <main> teqi bir <article>,<aside>,<footer>,<header> ve ya <nav> telement neslinden olmamaldir.
+
+15.<mark>--- teqi isaretlenmis metin secer.eger metinin her hansi bir hissesini secilmesini isteyirsinizse <mark> teqinden istifade edin.
+
+16.<menuitem>----bu teq istifadecinin acilan menuden basalda bileceyi bir script menu elementi tanimlar.
+
+17.<meter>----secdiyimizz bir intervalda deyeri istifadeciye goruntu olaraq gostermemizi temin eder.
+
+18.<nav>---- bu teq gezinti(navigasyon) linklerinin yerlesdiyi  hisseni tanimlar.
+
+19.<output>--- bu teq bir hesablama neticesin tanimlayir.
+
+20.<picture>--- bu teq,web proqramistlere goruntu qaynaqlarini teyin etme movzusunda daha cox elastiklik qazandirir.
+Goruntuleme erazisinin genisliyine bagli olaraq boyudulmus ve kicildile bilen tek bir gorunum olmasi yerine
+birden cox sekil brauzere gosterme sahesine daha gozel dolduracaq sekilde tesvir edile biler.
+
+21.<progress>----bir isin,emeliyyatindan irelileme veya bitme muddeetinde istifadeciye gonrunus olaraq gostermemizi temin eder.
+
+22.<rp>----ruby aciqlamalarini desteklemeyen brauzerler terefinden gosterilmek uzre <rp> tagi bir ruby metninin etrafinda dirnaqlar
+qoymaq ucun istifade olunur.
+
+23.<rt>----ruby aciqlamasinda xarakterin aciqlamasini veya teleffuzunu taniyir.
+
+24.<ruby>-----heroqlif Asya dillerindeki heroqlifleri aciqlmaq ucun istifade olunur.
+
+25.<section>-----bu teq bir seneddeki hissleri,misal ucun hisselerde,esas informasinya  veya diger hisselerini tanimlayar.
+
+26.                                      HTML 5 yeni teqler 
+
+
+1. <article> ---Meqale musteqil,oz-ozune olan mezmun gosterir.
+     Bir meqale oz-ozune menali ve musteqil olmalidi saytin istenilen yerinde istediyimize qeder cagirib islede bilerik.
+
+2.  <aside>----Aside teqi,seifemizin sag ve ya sol sutunlarini tanimlamak ucun istifade edilir.
+
+3.  <audio>----teqi musiqi ve ya diger ses axislarini tanimlayir.Hal-hazirda audio teqin 3 desteklenen fayl formasi vardir mp3,wav ve ogg.
+
+4.  <bdi>-----Bi-directional Isolation sozunun qisaltmasindan gelir.ferqli yonde baslayan bir metini diger metinden ayirir.mes(erebce,turkce)
+     metin dili ferqli olan seifde yaradarken bu teqden istifade etmek meksede uygundur.
+
+5. <canvas>--- elementi bir web seifesinde qrafik cekmek ucun istifade edilir.<Canvas> qrafikler ucun sadece bir tutucudur.Eger qrafikc cekmek
+    isteyirsinizse bu zaman script istifade etmelisiniz.
+
+6. <datalist>----Datalist HTML5 ile gelen yeni xususiyyetlerinden biri Selectbox kimi ozunde evvelceden mueyyen variantlarin bir siyahisini gsterir.
+
+7. <dialog>---- teqi bir informasiya qutusu ve ya pencere mueyyen edir. bir web seifeesinde diyaloqlar ve sablonlar yaratmagi asantlasdirir.
+
+8.  <embed>--- teqi xarici bir tetbiqi ve ya interaktiv bir ehate edici tanimlar.
+ 
+9. <figcaption>---teqi <fiqure> teqi ucun bir basligi gosterir sekilin ust ve ya alt hissesinde yerlesdirilir.
+
+10. <Fiqure>----Fiqure etiketi img,resm kimi elementleri ifade etmek ucun istifade edilen teqdir.
+
+11.<footer>---- teqi bir sened ve ya bolum ucun bir footer mueyyen edir.Footer element onun terkibinde element haqqinda melumatlari gostermelidir.
+
+12 <header>----elememti giris mezmun ve ya naviqasiya links ucun  bir  konteyner edir.<header> teqinin <head> teqi ile hec bir benzerliyi
+   ve oxsarligi yoxdur <head> teqi <body> teqinden evvel yazildigi halda <header> teqi <body> teqinin terkibinde yazilir.
+
+13.<keygen>---bu teq formlar ucun istifade olunan bir acar(sexsi ve ortaq) yaradir.Form melumatlari gonderildikden sonra,sexsi acar museride
+   tutulur,ortaq acar servere gonderilir.istifadecinin tanimaq ucun bu acar cifti istifade olunur.
+
+14.<main> ----bu teq senedin esas mezmununu mueyyen edir.bu element daxilinde mezmun sened ucun xas olmalidir.Bu yan cubuqlar,naviqasiya
+   baglantilar ve axtarisalr kimi senedler arasinda tekrar her hansi bir mezmun olmamalidir.Bir  senedde daha cox esas element ola bilmez
+   <main> teqi bir <article>,<aside>,<footer>,<header> ve ya <nav> telement neslinden olmamaldir.
+
+15.<mark>--- teqi isaretlenmis metin secer.eger metinin her hansi bir hissesini secilmesini isteyirsinizse <mark> teqinden istifade edin.
+
+16.<menuitem>----bu teq istifadecinin acilan menuden basalda bileceyi bir script menu elementi tanimlar.
+
+17.<meter>----secdiyimizz bir intervalda deyeri istifadeciye goruntu olaraq gostermemizi temin eder.
+
+18.<nav>---- bu teq gezinti(navigasyon) linklerinin yerlesdiyi  hisseni tanimlar.
+
+19.<output>--- bu teq bir hesablama neticesin tanimlayir.
+
+20.<picture>--- bu teq,web proqramistlere goruntu qaynaqlarini teyin etme movzusunda daha cox elastiklik qazandirir.
+Goruntuleme erazisinin genisliyine bagli olaraq boyudulmus ve kicildile bilen tek bir gorunum olmasi yerine
+birden cox sekil brauzere gosterme sahesine daha gozel dolduracaq sekilde tesvir edile biler.
+
+21.<progress>----bir isin,emeliyyatindan irelileme veya bitme muddeetinde istifadeciye gonrunus olaraq gostermemizi temin eder.
+
+22.<rp>----ruby aciqlamalarini desteklemeyen brauzerler terefinden gosterilmek uzre <rp> tagi bir ruby metninin etrafinda dirnaqlar
+qoymaq ucun istifade olunur.
+
+23.<rt>----ruby aciqlamasinda xarakterin aciqlamasini veya teleffuzunu taniyir.
+
+24.<ruby>-----heroqlif Asya dillerindeki heroqlifleri aciqlmaq ucun istifade olunur.
+
+25.<section>-----bu teq bir seneddeki hissleri,misal ucun hisselerde,esas informasinya  veya diger hisselerini tanimlayar.
+
+26.<source>----teqi ortaq xususiyyetleri ucun <video>,<ses>ve <sekil> kimi birden cox menbesi ifade etmek ucun istifade olunur.
+
+27.<summary>---bu teq <details>  elementi ucun gorunur bir basliq tanmilar.Basliq melumatlari gormek ve gizlemek ucun girile biler.
+
+28.<time>---- teqi bir insan terefinden oxuna ilen bir tarix saati tanimlayir.bu element,tarix ve saatlari masin terefinden oxuna bilir
+   bir sekilde kodlamaq ucun istifade olunur.
+
+29.<track>---- bu teq media elementleri ucun metn hisseleri mueyyen edir (audio ve video)
+
+30.<video>----bu teq bir filim kimi veya diger video axinlari kimi,video gosterir.
+
+31.<wbr>----bu teq sozler arasi setir sonu elave etmek ucun istifade edilir.
